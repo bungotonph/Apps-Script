@@ -23,7 +23,7 @@ The "Google Apps Script Conditional Formatting for Google Sheets" project provid
 3. Inventory management: Format cells with low stock levels to draw attention.
 
 ## Credits
-- This script is powered by Bard, an advanced language model by OpenAI.
+- This script is powered by Bard, a large language model from Google AI.
 - The project was created by SBAJO.
 
 ## Contributing
