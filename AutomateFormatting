@@ -1,4 +1,4 @@
-//Credits: GPT-3.5, SBAJO
+//Credits: Bard, SBAJO
 
 function applyConditionalFormatting() {
   var sheetName = "Consolas"; // Specify the name of the sheet
